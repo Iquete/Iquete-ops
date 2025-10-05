@@ -3443,3 +3443,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Oct2025 02:16:00.173] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
 [05Oct2025 02:17:29.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Disconnected
 [05Oct2025 02:17:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[05Oct2025 02:20:03.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 02:20:03.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Oct2025 02:25:03.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Oct2025 02:25:03.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
