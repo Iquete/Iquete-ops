@@ -841,12 +841,6 @@
     },
     "done": false
   },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-07 23:31:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-08 00:08:23 +0000"
@@ -5076,12 +5070,6 @@
     },
     "done": true
   },
-  "man:thetear": {
-    "criteria": {
-      "thetear_0": "2025-07-09 05:38:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-09 05:38:17 +0000"
@@ -6319,12 +6307,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-10 08:12:41 +0000"
-    },
-    "done": true
-  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "cleaver": "2025-07-10 07:44:20 +0000"
@@ -6334,6 +6316,12 @@
   "tconstruct:tools/modified": {
     "criteria": {
       "crafted_tool": "2025-07-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-10 08:12:41 +0000"
     },
     "done": true
   },
